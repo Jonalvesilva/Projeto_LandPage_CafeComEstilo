@@ -1,6 +1,6 @@
 export function Appbar() {
   return (
-    <div className="bg-amber-800 px-4 py-4">
+    <div className="bg-amber-800 px-4 py-4 sticky">
       <div className="w-full md:max-w-6xl md:mx-auto md:flex md:items-center md:justify-between">
         <div>
           <a
